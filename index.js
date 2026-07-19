@@ -25,9 +25,11 @@ const client = new Client({
 // CONFIGURE YOUR CHANNELS HERE: 
 // Add the exact Voice Channel ID and the text status you want it to display
 const CHANNELS_TO_UPDATE = [
-    { id: '1512702469535436871', status: '🎵 Chilling & Music' },
-    { id: '1512702453584363581', status: '🎮 Gaming Zone 24/7' },
-    { id: '1512702441144189018', status: '🤫 Quiet Study Room' }
+    { id: '1521736965441978442', status: '𝚃𝙰𝙻𝙺 𝚆𝙸𝚃𝙷 𝙵𝚁𝙸𝙴𝙽𝙳𝚂' },
+    { id: '1521736971125264474', status: 'DUO VC' },
+    { id: '1521736975428616372', status: 'DIPPRESSION VC' },
+    { id: '1521736978180341820', status: 'CHILL VC STARTS HERE' },
+    { id: '1521737076905607168', status: 'AFK LONGUE' }
 ];
 
 client.once('ready', async () => {

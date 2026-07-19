@@ -27,7 +27,7 @@ const client = new Client({
 const CHANNELS_TO_UPDATE = [
     { id: '1521736965441978442', status: '𝚃𝙰𝙻𝙺 𝚆𝙸𝚃𝙷 𝙵𝚁𝙸𝙴𝙽𝙳𝚂' },
     { id: '1521736971125264474', status: 'DUO VC' },
-    { id: '1521736975428616372', status: 'DIPPRESSION VC' },
+    { id: '1521736975428616372', status: 'DEPRESSION VC' },
     { id: '1521736978180341820', status: 'CHILL VC STARTS HERE' },
     { id: '1521737076905607168', status: 'AFK LONGUE' }
 ];

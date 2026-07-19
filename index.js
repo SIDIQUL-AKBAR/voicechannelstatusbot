@@ -25,11 +25,11 @@ const client = new Client({
 // CONFIGURE YOUR CHANNELS HERE: 
 // Add the exact Voice Channel ID and the text status you want it to display
 const CHANNELS_TO_UPDATE = [
-    { id: '1521736965441978442', status: '𝚃𝙰𝙻𝙺 𝚆𝙸𝚃𝙷 𝙵𝚁𝙸𝙴𝙽𝙳𝚂' },
-    { id: '1521736971125264474', status: 'DUO VC' },
-    { id: '1521736975428616372', status: 'DEPRESSION VC' },
-    { id: '1521736978180341820', status: 'CHILL VC STARTS HERE' },
-    { id: '1521737076905607168', status: 'AFK LONGUE' }
+    { id: '1521736965441978442', status: '»——　𝙏𝘼𝙇𝙆 𝙒𝙄𝙏𝙃 𝙁𝙍𝙄𝙀𝙉𝘿𝙎　——«' },
+    { id: '1521736971125264474', status: '»——　𝘿𝙐𝙊 𝙑𝘾　——«' },
+    { id: '1521736975428616372', status: '»——　𝘿𝙀𝙋𝙍𝙀𝙎𝙎𝙄𝙊𝙉　——«' },
+    { id: '1521736978180341820', status: '»——　𝘾𝙃𝙄𝙇𝙇 𝙑𝘾　——«' },
+    { id: '1521737076905607168', status: '»——　𝘼𝙁𝙆　——«' }
 ];
 
 client.once('ready', async () => {

@@ -25,13 +25,13 @@ const client = new Client({
 // YOUR CUSTOM CHANNEL LAYOUT:
 // Replace 'YOUR_..._ID' with the actual numeric channel IDs from your server.
 const TARGET_CHANNELS = [
-    { id: '1521736965441978442', status: '🏠 Welcome to the Lounge! Chill here with friends' },
-    { id: '1521736971125264474',         status: '👥 Duo Room • Find your partner here' },
-    { id: '1521736973709082677',   status: '🤫 Quiet Zone • Solo space / Mute ok' },
-    { id: '1521736974505869333',     status: '🤍 Safe Space • Comfort zone for everyone' },
-    { id: '1521736978180341820',       status: '🍃 Chilling area • Good vibes only' },
-    { id: '1521737076905607168',     status: '💤 Away From Keyboard • Sleeping/Away' },
-    { id: '1521737022572593182',       status: '🎵 Music Room • Vibe to the beats' }
+    { id: '1521736965441978442', status: '✌𝓕𝓡𝓘𝓔𝓝𝓓𝓢 𝓥𝓒✌' },
+    { id: '1521736971125264474',         status: '✌𝓓𝓤𝓞 𝓥𝓒✌' },
+    { id: '1521736973709082677',   status: '🤫𝓘𝓝𝓣𝓡𝓞𝓥𝓔𝓡𝓣' },
+    { id: '1521736974505869333',     status: '🤍𝓒𝓞𝓜𝓕𝓞𝓡𝓣 𝓥𝓒' },
+    { id: '1521736978180341820',       status: '🍃 𝓒𝓗𝓘𝓛𝓛𝓘𝓝𝓖 ' },
+    { id: '1521737076905607168',     status: '💤 𝓐𝓕𝓚' },
+    { id: '1521737022572593182',       status: '·♪·¯·♫¸¸ 𝓜𝓤𝓢𝓘𝓒¸¸♫·¯·♪¸♩·' }
 ];
 
 client.once('ready', async () => {
